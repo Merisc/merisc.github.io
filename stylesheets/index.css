@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+.dimgrey {
+    color: dimgrey;
+}
+
 a {
     text-decoration: none;
 }
@@ -25,8 +29,21 @@ a:hover{
     margin-right: 10px;
 }
 
+.footer {
+    height: 25px;
+}
 
+.footer .container ul li {
+    line-height: 25px;
+    list-style-type: none;
+    padding-right: 15px;
+}
 
-.cp {
-    color: dimgrey;
+.footer .container ul li span {
+    width: 100px;
+    text-align: justify;
+}
+
+.footer .container ul li a {
+    /*float: left;*/
 }
