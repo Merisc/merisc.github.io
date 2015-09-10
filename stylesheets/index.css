@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+.jumbotron {
+    margin-top: 52px;
+}
+
 .text-success {
     margin-top: 10px;
 }
