@@ -43,7 +43,8 @@ a:hover {
     text-align: justify;
 }
 
-.footer .container ul li a button {
+.footer .container ul li button {
     background-color: #696969;
     border-color: #333;
+    margin-top: 10px;
 }
