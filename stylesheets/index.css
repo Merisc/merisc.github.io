@@ -5,6 +5,14 @@
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
 .jumbotron {
     margin-top: 50px;
 }
@@ -15,4 +23,10 @@
 
 .nar-right {
     margin-right: 10px;
+}
+
+
+
+.cp {
+    color: dimgrey;
 }
