@@ -13,7 +13,7 @@ a {
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     text-decoration: none;
 }
 
@@ -30,7 +30,6 @@ a:hover{
 }
 
 .footer {
-    height: 25px;
 }
 
 .footer .container ul li {
@@ -44,6 +43,7 @@ a:hover{
     text-align: justify;
 }
 
-.footer .container ul li a {
-    /*float: left;*/
+.footer .container ul li a button {
+    background-color: #696969;
+    border-color: #333;
 }
