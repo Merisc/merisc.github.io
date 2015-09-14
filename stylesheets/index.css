@@ -97,3 +97,8 @@ a:hover {
     margin-top: 10px;
 }
 /* footer end */
+
+
+.testImg img{
+    width: 100%;
+}
